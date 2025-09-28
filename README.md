@@ -11,7 +11,7 @@ A Flutter application that allows users to customize their coffee preferences by
 
 ## Screenshots
 
-![Coffee Card App](assets/img/coffee_bg.jpg)
+<img src="assets/img/coffee_bg.jpg" alt="Coffee Card App" width="400">
 
 ## Getting Started
 
