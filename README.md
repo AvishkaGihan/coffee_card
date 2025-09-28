@@ -25,7 +25,7 @@ A Flutter application that allows users to customize their coffee preferences by
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/coffee_card.git
+   git clone https://github.com/AvishkaGihan/coffee_card.git
    cd coffee_card
    ```
 
